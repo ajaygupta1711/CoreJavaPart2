@@ -12,6 +12,8 @@ public class finalDemo extends ChildDemo {
 		
 		final int i = 5;
 		
+		System.out.println(i);
+		
 //		i=5;
 
 	}
